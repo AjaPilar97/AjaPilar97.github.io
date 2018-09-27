@@ -1,0 +1,21 @@
+body {width: 800px;
+	color: #556B2F;
+	background-color: #FFF8DC;
+	font-family: georgia;
+	margin-left: 350px;
+}
+
+.baby {width: 300px;
+		height: 230px;
+}
+
+.benaja {height: 320px;
+		width: 290px;
+	}
+
+.smoke {width: 800px;
+
+}
+
+p, ul {font-size: 18px;
+}
