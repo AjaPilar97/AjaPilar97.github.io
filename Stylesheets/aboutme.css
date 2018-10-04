@@ -1,0 +1,53 @@
+body {width: 800px;
+	color: #556B2F;
+	font-family: baskerville;
+	margin-left: 350px;
+	letter-spacing: 2px;
+}
+
+p, ul {font-size: 18px;
+}
+
+html {
+	background: linear-gradient(#FFF8DC, #BC8F8F);
+}
+
+h1 {
+	border: solid 2.5px black;
+	font-size: 50px;
+	padding-bottom: 5px;
+	padding-top: 5px
+}
+
+h3 {
+	text-decoration: underline;
+	color: black
+}
+
+h4 {
+	font-weight: normal;
+}
+
+.baby {width: 300px;
+		height: 230px;
+}
+
+.benaja {height: 320px;
+		width: 290px;
+	}
+
+.smoke {width: 800px;
+
+}
+
+.imageblock1 {
+	width: 300px;
+	float: left;
+	padding-right: 2em;
+}
+
+.imageblock {
+	width: 350px;
+	float: right;
+	padding-left: 2em
+}
